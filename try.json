@@ -1,0 +1,42 @@
+[
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "saradr1wadan@gmail.com",
+      "photo": "img1.jpg"
+    },
+    {
+      "userId": 2,
+      "firstName": "fayaz",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "img4.jpg"
+    },
+    {
+      "userId": 2,
+      "firstName": "asee",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "img1.jpg"
+    },
+    {
+      "userId": 2,
+      "firstName": "narati",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "img3.jpg"
+    },
+    {
+      "userId": 3,
+      "firstName": "rabin ",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "img2.jpg"
+    } 
+  ]
